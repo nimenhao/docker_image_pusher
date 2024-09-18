@@ -5,3 +5,5 @@ xhofe/alist:latest
 helloz/onenav
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+# basic
+centos
