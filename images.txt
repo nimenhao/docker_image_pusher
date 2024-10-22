@@ -12,5 +12,5 @@ dreamacro/clash
 centos
 
 # k8s
-docker.io/flannel/flannel
-docker.io/flannel/flannel-cni-plugin
+docker.io/flannel/flannel:v0.25.7
+docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
