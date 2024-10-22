@@ -14,3 +14,4 @@ centos
 # k8s
 docker.io/flannel/flannel:v0.25.7
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
+kubesphere/ks-installer:v3.4.1
