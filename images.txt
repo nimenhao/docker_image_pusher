@@ -10,3 +10,7 @@ dreamacro/clash
 --platform=linux/arm64 xiaoyaliu/alist
 # basic
 centos
+
+# k8s
+docker.io/flannel/flannel
+docker.io/flannel/flannel-cni-plugin
