@@ -6,8 +6,10 @@ helloz/onenav
 kubesphere/ks-installer:v3.3.0
 gists/nfs-server
 dreamacro/clash
+halcyonazure/lsky-pro-docker:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+
 # basic
 centos
 
