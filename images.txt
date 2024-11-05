@@ -1,6 +1,9 @@
-redis:6.2.16
-nginx
-kodcloud/kodbox
+
+#openelb
+kubesphere/openelb-controller:v0.6.0
+kubesphere/openelb-speaker:v0.6.0
+kubesphere/kube-webhook-certgen:v1.1.1
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
@@ -14,6 +17,9 @@ halcyonazure/lsky-pro-docker:latest
 
 # basic
 centos
+redis:6.2.16
+nginx
+kodcloud/kodbox
 
 # k8s
 docker.io/flannel/flannel:v0.25.7
@@ -152,8 +158,3 @@ kubesphere/examples-bookinfo-ratings-v1:1.16.3
 ##weave-scope-images
 weaveworks/scope:1.13.0
 
-
-#openelb
-kubesphere/openelb-controller:v0.6.0
-kubesphere/openelb-speaker:v0.6.0
-kubesphere/kube-webhook-certgen:v1.1.1
