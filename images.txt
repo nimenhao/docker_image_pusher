@@ -1,2 +1,2 @@
 # tools
-pig4cloud/markitdown
+python:3.13-slim-bullseye
