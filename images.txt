@@ -1,3 +1,2 @@
 # tools
-snowdreamtech/frpc:0.61.2
-snowdreamtech/frps:0.61.2
+pig4cloud/markitdown
