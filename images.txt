@@ -1,2 +1,2 @@
 # tools
-python:3.13-slim-bullseye
+elasticsearch:8.18.0
