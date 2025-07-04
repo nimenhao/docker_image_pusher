@@ -1,2 +1,2 @@
 # tools
-mysql
+mysql:8.4.5
