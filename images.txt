@@ -1,2 +1,2 @@
 # tools
-elasticsearch:8.18.0
+mysql
