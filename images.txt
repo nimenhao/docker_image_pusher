@@ -1,2 +1,2 @@
 # tools
-mysql:8.4.5
+uozi/nginx-ui:latest
