@@ -1,2 +1,2 @@
 # tools
-uozi/nginx-ui:latest
+vaultwarden/server:latest
