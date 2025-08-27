@@ -1,2 +1,3 @@
 # tools
 dreamacro/clash
+haishanh/yacd
