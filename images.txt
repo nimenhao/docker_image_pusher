@@ -1,3 +1,3 @@
-# tools
 b3log/siyuan:v3.6.1
 vaultwarden/server:1.35.4
+linuxserver/wireguard:1.0.20250521
