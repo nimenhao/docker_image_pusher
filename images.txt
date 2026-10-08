@@ -1,4 +1,4 @@
-b3log/siyuan:v3.8.6
+b3log/siyuan:v3.8.5
 # vaultwarden/server:1.35.4
 vaultwarden/server:1.37.1
 linuxserver/wireguard:1.0.20250521
